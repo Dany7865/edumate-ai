@@ -1,8 +1,8 @@
 # EduMate.AI – Your Academic Buddy + Smart Voice Assistant
 
-### 👨‍💻 Team Members: [Name 1, Name 2]  
-### 🏫 College: [Your College Name]  
-### 📧 Email: [Your Email]  
+### 👨‍💻 Team Members: Sonu Kumar
+### 🏫 College: IES College Of Technology 
+### 📧 Email: anosvoldiagod2@gmail.com  
 ### 📅 Submission Date: 30th May 2025
 
 ---
@@ -106,5 +106,7 @@ First-year college students often lack centralized, reliable, and accessible aca
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/edumate-ai.git
+   git clone https://github.com/anos0216/edumate-ai.git
    cd edumate-ai
+   npm install
+   npm run dev
