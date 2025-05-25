@@ -1,6 +1,6 @@
 # EduMate.AI – Your Academic Buddy + Smart Voice Assistant
 
-### 👨‍💻 Team Members: Sonu Kumar
+### 👨‍💻 Team Members: Sonu Kumar, Danyal Ali
 ### 🏫 College: IES College Of Technology 
 ### 📧 Email: anosvoldiagod2@gmail.com  
 ### 📅 Submission Date: 30th May 2025
