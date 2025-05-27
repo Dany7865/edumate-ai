@@ -1,22 +1,19 @@
-import Header from './components/Header';
-import Hero from './components/Hero';
-import Features from './components/Features';
-import AssistantSection from './components/AssistantSection';
-import Footer from './components/Footer';
-import ResumeBuilder from './components/ResumeBuilder';
-import PdfTools from './components/PdfTools';
+import { BrowserRouter, Route, Routes } from "react-router";
+import Home from "./pages/Home";
+import Notes from "./pages/Notes";
+import VoiceAssistant from "./pages/VoiceAssistant";
+import Header from "./components/Header";
 
 function App() {
   return (
-    <div className="bg-gray-50 text-gray-900">
+    <BrowserRouter>
       <Header />
-      <Hero />
-      <Features />
-      <AssistantSection />
-      <ResumeBuilder/>
-      <PdfTools/>
-      <Footer /> 
-    </div>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/notes" element={<Notes />} />
+        <Route path="/voice-assistant" element={<VoiceAssistant />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
