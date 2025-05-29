@@ -109,4 +109,6 @@ First-year college students often lack centralized, reliable, and accessible aca
    git clone https://github.com/anos0216/edumate-ai.git
    cd edumate-ai
    npm install
+   add Gemini API Key
    npm run dev
+  
