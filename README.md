@@ -2,8 +2,8 @@
 
 ### 👨‍💻 Team Members: Danyal Ali, Amit gupta, Aman Pal
 ### 🏫 College: Noida Institute of Engineering and Technology
-### 📧 Email: anosvoldiagod2@gmail.com  
-### 📅 Submission Date: 30th May 2025
+### 📧 Email: alidanyal290@gmail.com
+### 📅 Submission Date: 5 june 2025
 
 ---
 
